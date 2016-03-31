@@ -22,7 +22,7 @@ apt-get install ruby ruby-gem python nodejs build-essentials && \
 ```
 # Simple Hello World
 
-As you could expect from a modern framework, FapfapJS is really simple to bootstrap. Here is a example to really feel the underneath power of the FAP (Federative Awesome Platform).
+As you could expect from a modern framework, FapfapJS is really simple to bootstrap. Here is an example to really feel the underneath power of the FAP (Federative Awesome Platform).
 ```js
 /*global fapfap */
 'use strict';
@@ -44,7 +44,7 @@ const modules = require('*'); // just in case
   var partUnzipper = angular.module({'unzip': router.run('%body%').unzip()});
 
   // Close our DOM Object Ordering Recorder to prevent
-  // to be interrupted by external process
+  // from being interrupted by external process
   door.close();
 
   fapfap.stringFactory = partUnzipper.grab(tool);
@@ -54,15 +54,15 @@ const modules = require('*'); // just in case
 
 # Contributing
 
-FapfapJS is so universal that anyone can bring his own expertise! The best way to do it is to open a pull request & submit you contribution. To help us identify the goal of your proposition, please follow the following guideline rules:
+FapfapJS is so universal that anyone can bring his own expertise! The best way to do it is to open a pull request & submit your contribution. To help us identify the goal of your proposition, please follow the following guideline rules:
 
 Please start your commit with:
 - :fist: this commit is about a huge & hardcore refactor
 - :open_hands: you did this commit in pair programming
 - :punch: it made some BC Breaks
-- :v: this was quick & dirty fix
+- :v: this was a quick & dirty fix
 - :fu: promising experimental commit
-- :muscle: improve the overall performances
+- :muscle: improves the overall performances
 - :sweat_drops: this may generate side effects
 - :door: this commit improves the privacy
 - :chestnut::chestnut: documentation improvement
