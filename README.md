@@ -68,8 +68,10 @@ Please start your commit with:
 - :chestnut::chestnut: documentation improvement
 
 ## Still not convinced?
-_(Psst, you can click, it's a video)_<br />
-[![FapfapJS video](https://img.youtube.com/vi/JowtRcblp-U/0.jpg)](https://www.youtube.com/watch?v=JowtRcblp-U)
+<p align="center">
+<i>(Psst, you can click, it's a video)</i><br />
+<a href="https://www.youtube.com/watch?v=JowtRcblp-U"><img src="https://img.youtube.com/vi/JowtRcblp-U/0.jpg" /></a>
+</p>
 
 # License
 Fapfapjs is licensed under the MIT 2.0
